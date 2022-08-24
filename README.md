@@ -37,7 +37,7 @@ src="https://raw.githubusercontent.com/gist/leohsantana20/152f47468b0e27af008be7
  ## 🛠 &nbsp;Skills que estou aprendendo
  ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&bnsp;
+ ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
           
           
           
