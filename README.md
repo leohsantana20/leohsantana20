@@ -6,7 +6,7 @@ src="https://raw.githubusercontent.com/gist/leohsantana20/152f47468b0e27af008be7
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-sant-ana-49706818a/)](https://www.linkedin.com/in/leonardo-sant-ana-49706818a/)
 
 
-- 💻 Aspiranta a CLoud Enginner com foco em ambiente DevOps
+- 💻 Aspiranta a Cloud Enginner com foco em ambiente DevOps
 
 - 🔭 Aprendendo cada vez mais sobre ambientes Cloud - Azure, Aws
 
@@ -21,7 +21,6 @@ src="https://raw.githubusercontent.com/gist/leohsantana20/152f47468b0e27af008be7
 
 
 ## 🛠 &nbsp;Dev Skills
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![mysql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
@@ -34,10 +33,19 @@ src="https://raw.githubusercontent.com/gist/leohsantana20/152f47468b0e27af008be7
 <br><br>
           
           
- ## 🛠 &nbsp;Skills que estou aprendendo
+ ## ✍️ &nbsp;Skills que estou aprendendo
+ ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
  ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
  ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
+ ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
+ 
+<br><br>
+
+## 🔥 &nbsp;O que você irá encontrar ?
+- Esse é meu ambiente de aprendizado, aqui deixarei os reposotórios dos projetos que estárei criando e alguns arquivos com observações para aprender atuar melhor em abientes Cloud e DevOps. ⚙️
+- Se você tiver dúvidas, me pergunte que auxiliarei com todo meu conhecimento.🤔
+- Criticas construtivas são muito bem recebidas, aprecio cada gesto de bom grado.😄
           
           
           
