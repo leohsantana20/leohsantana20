@@ -6,15 +6,15 @@ src="https://raw.githubusercontent.com/gist/leohsantana20/152f47468b0e27af008be7
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-sant-ana-49706818a/)](https://www.linkedin.com/in/leonardo-sant-ana-49706818a/)
 
 
-- 💻 Aspiranta a Cloud Enginner com foco em ambiente DevOps
+- 💻 Aspiranta a Cloud Enginner com foco em ambientes Dev e DevOps
 
 - 🔭 Aprendendo cada vez mais sobre ambientes Cloud - Azure, Aws
 
-- 📚 Estudando atualmente - **Python**, **Scrum**
+- 📚 Estudando atualmente - **Python**, **Asp.Net Core 2**
 
 - 💬 Fique a vontade para fazer perguntas, ajudarei da melhor maneira que eu conseguir 😁
 
-- 🙋‍♂️ Visite meus projetos e meu perfil do linkedin.
+- 🙋‍♂️ Visite meus projetos e meu perfil do Linkedin.
 
 - 🏋️‍♂️ Musculação é meu hobby nas horas vagas
 
@@ -43,7 +43,7 @@ src="https://raw.githubusercontent.com/gist/leohsantana20/152f47468b0e27af008be7
 <br><br>
 
 ## 🔥 &nbsp;O que você irá encontrar ?
-- Esse é meu ambiente de aprendizado, aqui deixarei os reposotórios dos projetos que estárei criando e alguns arquivos com observações para aprender atuar melhor em abientes Cloud e DevOps. ⚙️
+- Esse é meu ambiente de aprendizado, aqui deixarei os reposotórios dos projetos que estárei criando e alguns arquivos com observações para aprender atuar melhor em abientes Cloud, Dev e DevOps. ⚙️
 - Se você tiver dúvidas, me pergunte que auxiliarei com todo meu conhecimento.🤔
 - Criticas construtivas são muito bem recebidas, aprecio cada gesto de bom grado.😄
           
