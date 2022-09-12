@@ -21,6 +21,7 @@ src="https://raw.githubusercontent.com/gist/leohsantana20/152f47468b0e27af008be7
 
 
 ## 🛠 &nbsp;Dev Skills
+![C#](https://img.shields.io/badge/-05122A?style=flat&logo=csharp)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![mysql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
