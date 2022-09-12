@@ -24,13 +24,13 @@ src="https://raw.githubusercontent.com/gist/leohsantana20/152f47468b0e27af008be7
 ![C#](https://img.shields.io/badge/-05122A?style=flat&logo=csharp)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![mysql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-05122A?style=flat&logo=visualstudio)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-05122A?style=flat&logo=azuredevops)&nbsp;
 ![Oracle Database](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![mysql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
 <br><br>
           
           
