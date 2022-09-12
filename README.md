@@ -10,7 +10,7 @@ src="https://raw.githubusercontent.com/gist/leohsantana20/152f47468b0e27af008be7
 
 - 🔭 Aprendendo cada vez mais sobre ambientes Cloud - Azure, Aws
 
-- 📚 Estudando atualmente - **Python**, **Asp.Net Core 2**
+- 📚 Estudando atualmente - **Python**
 
 - 💬 Fique a vontade para fazer perguntas, ajudarei da melhor maneira que eu conseguir 😁
 
