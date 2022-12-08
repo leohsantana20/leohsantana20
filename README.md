@@ -6,11 +6,11 @@ src="https://raw.githubusercontent.com/gist/leohsantana20/152f47468b0e27af008be7
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-sant-ana-49706818a/)](https://www.linkedin.com/in/leonardo-sant-ana-49706818a/)
 
 
-- 💻 Aspiranta a Cloud Enginner com foco em ambientes Dev e DevOps
+- 💻  Dev Jr.
 
-- 🔭 Aprendendo cada vez mais sobre ambientes Cloud - Azure, Aws
+- 🔭 Aprendendo cada vez mais sobre ambientes Oracle - PL/Sql - .Net - PowerBuilder
 
-- 📚 Estudando atualmente - **Python**
+- 📚 Estudando atualmente - **PowerBuilder**
 
 - 💬 Fique a vontade para fazer perguntas, ajudarei da melhor maneira que eu conseguir 😁
 
