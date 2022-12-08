@@ -2,7 +2,7 @@
 src="https://raw.githubusercontent.com/gist/leohsantana20/152f47468b0e27af008be7072783c525/raw/bc3d09cbac496f4655f9ef52c9b5009f6d12b309/githubcard.svg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Léo!</h1>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leohsantana20)](https://github.com/fagnerpsantos)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leohsantana20)](https://github.com/leohsantana20)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-sant-ana-49706818a/)](https://www.linkedin.com/in/leonardo-sant-ana-49706818a/)
 
 
